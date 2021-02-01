@@ -7,3 +7,4 @@ Display(100);(function() {
     })();(function() {
         console.log('hello');
         })();
+
